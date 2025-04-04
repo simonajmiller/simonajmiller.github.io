@@ -1,0 +1,13 @@
+title: simona j. miller 
+email: smiller@caltech.edu
+description: >- 
+    gravitational-wave astrophysicist
+baseurl: "" 
+url: "https://simonajmiller.github.io" 
+github_username:  simonajmiller
+
+#theme: minima
+theme: hitchens-theme
+
+plugins:
+  - jekyll-feed
