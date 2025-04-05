@@ -1,0 +1,3 @@
+[submodule "themes/hitchens"]
+	path = themes/hitchens
+	url = https://github.com/simonajmiller/hitchens.git
