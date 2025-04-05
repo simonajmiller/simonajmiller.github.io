@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://simonajmiller.github.io" 
 github_username:  simonajmiller
 
-theme: hitchens-theme
+remote_theme: simonajmiller/hitchens
 
 plugins:
   - jekyll-feed
