@@ -6,7 +6,6 @@ baseurl: ""
 url: "https://simonajmiller.github.io" 
 github_username:  simonajmiller
 
-#theme: minima
 theme: hitchens-theme
 
 plugins:
