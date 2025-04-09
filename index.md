@@ -6,4 +6,4 @@ layout: home
 title: about me
 ---
 
-here i will put the information about myself. this should go on the homepage for my website :-)
+here is where i will put information about myself
