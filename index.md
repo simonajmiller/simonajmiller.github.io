@@ -3,4 +3,4 @@ layout: home
 title: about me
 ---
 
-here is where i will put information about myself
+I am a fourth year PhD Candidate at Caltech.
