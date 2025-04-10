@@ -16,7 +16,7 @@ I am a member of the [LIGO Scientific Collaboration](https://www.ligo.caltech.ed
 &nbsp;
 
 I am passionate about teaching and mentoring undergraduate scientists.
-My mentoring philosophy centers on providing consistent, individually-tailored intra- and extra-curricular guidance and creating strong, community-based support structures. My skills and outlook from extensive experience with one-on-one mentorship, advocacy for increased representation, and leadership in community-building projects. You can read more about my mentoring philosophy [here](/mentoring/2025/04/10/example.html) and relevant experience [here](/teaching-mentoring-outreach/).
+My mentoring philosophy centers on providing consistent, individually-tailored intra- and extra-curricular guidance and creating strong, community-based support structures. My skills and outlook stem from extensive experience with one-on-one mentorship, advocacy for increased representation, and leadership in community-building projects. You can read more about my mentoring philosophy [here](/mentoring/2025/04/10/example.html) and relevant experience [here](/teaching-mentoring-outreach/).
 
 
 &nbsp;
