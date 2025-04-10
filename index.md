@@ -8,9 +8,6 @@ Broadly, I'm interested in how we measure binary black hole properties from grav
 
 ![Headshot](SMiller_Photo.JPG)
 
-
-&nbsp;
-
 I am a member of the [LIGO Scientific Collaboration](https://www.ligo.caltech.edu/), and currently work in the group of [Dr. Katerina Chatziioannou](https://kchatziioannou.github.io/index.html). I graduated summa cum laude from Smith College in 2020 with a Bachelor's in Physics, minor in Mathematics, and [thesis](https://scholarworks.smith.edu/theses/2305/) with highest honors. Before coming to Caltech in 2021, I then spent a year researching gravitational-waves from rapidly rotating neutron stars in Germany at the Max Planck Institute for Gravitational Physics under a Fulbright Research Scholarship. 
 
 &nbsp;
