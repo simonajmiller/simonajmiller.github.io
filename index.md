@@ -9,19 +9,12 @@ I am broadly interested in how, when, and why we can infer properties of celesti
 ![Headshot](SMiller_Photo.JPG)
 
 *Research:* My Ph.D research focuses the measurability of the **spins of binary black holes** through their **gravitational-wave emission** for individual systems and their astrophysical population. 
-I have studied ... 
-
-&nbsp;
-
-You can learn more about my research interests [here](/research/), and read my publications [here](/publications/).
+You can learn more about my research interests [here](/research/), and read my publications [here](/publications/). Code and data releases relevant to my work can be found on my [`github`](https://github.com/simonajmiller) page. 
 
 &nbsp;
 
 *Teaching and Mentoring:* I am passionate about teaching and mentoring undergraduate scientists.
 My mentoring philosophy centers on providing consistent, individually-tailored intra- and extra-curricular guidance and creating strong, community-based support structures. My skills and outlook stem from extensive experience with one-on-one mentorship, advocacy for increased representation, and leadership in community-building projects such as Caltech's graduate student and postdoc [union](caltechgpu.org/).
-
-&nbsp;
-
 You can read more about my mentoring philosophy [here](/mentoring/2025/04/10/example.html) and relevant experience [here](/teaching-mentoring-outreach/).
 
 &nbsp;
@@ -30,4 +23,4 @@ You can read more about my mentoring philosophy [here](/mentoring/2025/04/10/exa
 
 &nbsp;
 
-Feel free to reach out via email at `smiller@caltech.edu`.
+You can access my full *curriculum vitae* [here](/cv/), and feel free to reach out via email at `smiller@caltech.edu`.
