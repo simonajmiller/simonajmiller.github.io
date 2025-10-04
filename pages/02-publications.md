@@ -78,4 +78,4 @@ Publications marked with a star (★) are co-authored by an undergraduate mentee
 
   <p> <br> </p>
 
-*This page was last updated September 25, 2025.*
+<span style="color:#8c8f8f">*This page was last updated September 25, 2025.*</span>
