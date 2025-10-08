@@ -20,16 +20,16 @@ Publications marked with a star (★) are co-authored by an undergraduate mentee
 - <span style="color:#8c8f8f;background-color:#b6dde4"> *Misinterpreting spins of heavy black holes: insights from time-domain morphology*. **S. J. Miller**, M. Isi, K. Chatziioannou, V. Varma, & S. Hourihane. (In prep, expected Spring 2026) </span>
   <p> <br> </p>
 
-- <span style="color:#8c8f8f"> ★ *Improving Posterior Predictive Checks for Gravitational-wave Population Analyses*. S. Winney, **S. J. Miller**, K. Chatziioannou, & P. Meyers. (In prep, expected December 2025 – January 2026) </span>
+- <span style="color:#8c8f8f"> ★ *Improving Posterior Predictive Checks for Gravitational-wave Population Analyses*. S. Winney, **S. J. Miller**, K. Chatziioannou, & P. Meyers. (In prep, expected Winter 2025-2026) </span>
   <p> <br> </p>
 
-- <span style="color:#8c8f8f"> *Inferring the spins of merging black holes in the presence of data-quality issues*. R. Udall, S. Bini, K. Chatziioannou, **S. Miller**, S. Hourihane, J. McIver, Y. Lecoeuche, & D. Davis. (In prep, expected October 2025) </span>
-  <p> <br> </p>
-
-- *Compact Binary Coalescence Sensitivity Estimates with Injection Campaigns during the LIGO-Virgo-KAGRA Collaborations' Fourth Observing Run*. R. Essick, *et al.*, incl. **S. Miller**. (Physical Review D, September 2025, [arXiv](https://arxiv.org/abs/2508.10638))
+- *Inferring the spins of merging black holes in the presence of data-quality issues*. R. Udall, S. Bini, K. Chatziioannou, ,D. Davis, S. Hourihane, J. McIver, Y. Lecoeuche, & **S. Miller**. (With Physical Review D reviewers, submitted October 2025. [arXiv](https://arxiv.org/abs/2510.05029))
   <p> <br> </p>
 
 - *Evidence of the pair instability gap in the distribution of black hole masses*. H. Tong, *et al.*, incl. **S. J. Miller**. (With Nature reviewers, submitted September 2025. [arXiv](https://arxiv.org/abs/2509.04151))  
+  <p> <br> </p>
+
+- *Compact Binary Coalescence Sensitivity Estimates with Injection Campaigns during the LIGO-Virgo-KAGRA Collaborations' Fourth Observing Run*. R. Essick, *et al.*, incl. **S. Miller**. (With Physical Review D reviewers, August 2025, [arXiv](https://arxiv.org/abs/2508.10638))
   <p> <br> </p>
 
 - <span style="background-color:#b6dde4"> *Measuring spin precession from massive black hole binaries with gravitational waves: insights from time-domain signal morphology*. **S. J. Miller**, M. Isi, K. Chatziioannou, V. Varma, & S. Hourihane. (With Physical Review D reviewers, submitted May 2025. [arXiv](https://doi.org/10.48550/arXiv.2505.14573)) </span>
