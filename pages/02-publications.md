@@ -6,34 +6,29 @@ permalink: /publications/
 
 ### **Overview** 
 
-**I have co-authored 9 short author-list papers total.** Of these I am the first author on four (highlighted below in <span style="background-color:#b6dde4">blue</span>) and second-author on three.
-Three more papers are in preparation; these are also listed below and have a <span style="color:#8c8f8f">lighter text color</span>.
+**I have co-authored 10 short author-list papers total.** Of these I am the **first author on 4** (highlighted below in <span style="background-color:#b6dde4">blue</span>) and second-author on three.
+<span style="color:#8c8f8f"> I have more papers in preparation; these are listed at the bottom of the page and have a lighter text color</span>.
 
 
-**I have also significantly contributed to four LIGO-Virgo-KAGRA (LVK) Collaboration papers.** I was on the paper writing team and served as a key analyst for one LVK paper(about the population properties of compact binary mergers as of our fourth gravitational-wave transient catalog release), served as a lead analyst for another (about constraining Hawking's Area Law with the loudest gravitational-wave detection to date), and contributed analysis to two more. These contributions and others can be verified [here](https://laac.docs.ligo.org/recognition/2025/09/11/simona-miller).
+**I have also significantly contributed to four LIGO-Virgo-KAGRA (LVK) Collaboration papers.** I was on the paper writing team and served as a key analyst for one LVK paper (about the population properties of compact binary mergers as of our fourth gravitational-wave transient catalog release), served as a lead analyst for another (about constraining Hawking's Area Law with the loudest gravitational-wave detection to date), and contributed analysis to two more. These contributions and others can be verified [here](https://laac.docs.ligo.org/recognition/2025/09/11/simona-miller).
 
 In the list below, each section is organized chronologically with the most recent publication at the top.
-Publications marked with a star (★) are co-authored by an undergraduate mentee; for two of these works, I mentored the student to first-authorship.
+Publications marked with a star (★) are co-authored by an undergraduate mentee.
 
 ### **Short author-list publications** 
 
-- <span style="color:#8c8f8f;background-color:#b6dde4"> *Misinterpreting spins of heavy black holes: insights from time-domain morphology*. **S. J. Miller**, M. Isi, K. Chatziioannou, V. Varma, & S. Hourihane. (In prep, expected Spring 2026) </span>
+- <span style="background-color:#b6dde4"> *Measuring spin precession from massive black hole binaries with gravitational waves: insights from time-domain signal morphology*. **S. J. Miller**, M. Isi, K. Chatziioannou, V. Varma, & S. Hourihane. (Physical Review D, accepted October 2025. [arXiv](https://doi.org/10.48550/arXiv.2505.14573)) </span>
   <p> <br> </p>
 
-- <span style="color:#8c8f8f"> ★ *Improving Posterior Predictive Checks for Gravitational-wave Population Analyses*. S. Winney, **S. J. Miller**, K. Chatziioannou, & P. Meyers. (In prep, expected Winter 2025-2026) </span>
-  <p> <br> </p>
-
-- *Inferring the spins of merging black holes in the presence of data-quality issues*. R. Udall, S. Bini, K. Chatziioannou, ,D. Davis, S. Hourihane, J. McIver, Y. Lecoeuche, & **S. Miller**. (With Physical Review D reviewers, submitted October 2025. [arXiv](https://arxiv.org/abs/2510.05029))
+- *Inferring the spins of merging black holes in the presence of data-quality issues*. R. Udall, S. Bini, K. Chatziioannou, D. Davis, S. Hourihane, J. McIver, Y. Lecoeuche, & **S. Miller**. (With Physical Review D reviewers, submitted October 2025. [arXiv](https://arxiv.org/abs/2510.05029))
   <p> <br> </p>
 
 - *Evidence of the pair instability gap in the distribution of black hole masses*. H. Tong, *et al.*, incl. **S. J. Miller**. (With Nature reviewers, submitted September 2025. [arXiv](https://arxiv.org/abs/2509.04151))  
   <p> <br> </p>
 
-- *Compact Binary Coalescence Sensitivity Estimates with Injection Campaigns during the LIGO-Virgo-KAGRA Collaborations' Fourth Observing Run*. R. Essick, *et al.*, incl. **S. Miller**. (With Physical Review D reviewers, August 2025, [arXiv](https://arxiv.org/abs/2508.10638))
+- *Compact Binary Coalescence Sensitivity Estimates with Injection Campaigns during the LIGO-Virgo-KAGRA Collaborations' Fourth Observing Run*. R. Essick, *et al.*, incl. **S. Miller**. (With Physical Review D reviewers, submitted August 2025, [arXiv](https://arxiv.org/abs/2508.10638))
   <p> <br> </p>
 
-- <span style="background-color:#b6dde4"> *Measuring spin precession from massive black hole binaries with gravitational waves: insights from time-domain signal morphology*. **S. J. Miller**, M. Isi, K. Chatziioannou, V. Varma, & S. Hourihane. (With Physical Review D reviewers, submitted May 2025. [arXiv](https://doi.org/10.48550/arXiv.2505.14573)) </span>
-  <p> <br> </p>
 
 - ★ *Mapping Parameter Correlations in Spinning Binary Black Hole Mergers*. K. Kang, **S. J. Miller**, K. Chatziioannou, & D. Ferguson. (Physical Review D, September 2025, [arXiv](https://arxiv.org/abs/2502.17402), [Phys. Rev. D](https://link.aps.org/doi/10.1103/4vbp-1jwl))
   <p> <br> </p>
@@ -62,12 +57,12 @@ Publications marked with a star (★) are co-authored by an undergraduate mentee
 
   <p> <br> </p>
 
-- *GWTC-4.0: Population Properties of Merging Compact Binaries*.(With reviewers, submitted August 2025. [arXiv](https://arxiv.org/abs/2508.18083))
+- *GWTC-4.0: Population Properties of Merging Compact Binaries*. (With Astrophysical Journal Letters reviewers, submitted August 2025. [arXiv](https://arxiv.org/abs/2508.18083))
 
     - ↪ **Paper writing team & key analyst**: led all spin-related content, figures, coordination, and synthesis across the LVK spin analyses
   <p> <br> </p>
 
-- *GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run*. (With reviewers, submitted August 2025.  [arXiv](https://arxiv.org/abs/2508.18082))
+- *GWTC-4.0: Updating the Gravitational-Wave Transient Catalog with Observations from the First Part of the Fourth LIGO-Virgo-KAGRA Observing Run*. (With Astrophysical Journal Letters reviewers, submitted August 2025.  [arXiv](https://arxiv.org/abs/2508.18082))
 
     - ↪ **Contributed** population-reweighted posterior distributions for O4a events (Figure 2) 
   <p> <br> </p>
@@ -78,4 +73,14 @@ Publications marked with a star (★) are co-authored by an undergraduate mentee
 
   <p> <br> </p>
 
-<span style="color:#8c8f8f">*This page was last updated October 8, 2025.*</span>
+
+### <span style="color:#8c8f8f"> **Currently in preparation** </span>
+
+- <span style="color:#8c8f8f;background-color:#b6dde4"> *Misinterpreting spins of heavy black holes: insights from time-domain morphology*. **S. J. Miller**, M. Isi, K. Chatziioannou, V. Varma, & S. Hourihane. (In prep, expected Spring 2026) </span>
+  <p> <br> </p>
+
+- <span style="color:#8c8f8f"> ★ *Improving Posterior Predictive Checks for Gravitational-wave Population Analyses*. S. Winney, **S. J. Miller**, K. Chatziioannou, & P. Meyers. (In prep, expected Winter 2025-2026) </span>
+  <p> <br> </p>
+
+
+  <span style="color:#8c8f8f">*This page was last updated October 20, 2025.*</span>

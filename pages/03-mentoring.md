@@ -21,6 +21,7 @@ This page is still in progress, but you can read more about my mentoring philoso
 #### Academia in the Labor Movement 
 
 <span style="background-color:#ed6c58">UAW 2478 stuff, mention protecting international workers and Kill the Cuts</span>
-
- Check out my [CV](/cv/) for a full list of my teaching, mentoring, and outreach activities. 
 -->
+
+\
+Check out my [CV](/cv/) for a full list of my teaching, mentoring, and outreach activities. 
