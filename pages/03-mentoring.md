@@ -3,7 +3,7 @@ layout: page
 title: teaching, mentoring, and outreach
 permalink: /teaching-mentoring-outreach/
 ---
-This page is still in progress, but you can read more about my mentoring philosophy [here](/mentoring/2025/04/10/example.html).
+You can read  my mentoring philosophy [here](/mentoring/2025/04/10/example.html), or check out my [CV](/cv/) for a full list of teaching, mentoring, and outreach activities. 
 
 <!--
 #### Teaching and Mentoring 
@@ -22,6 +22,3 @@ This page is still in progress, but you can read more about my mentoring philoso
 
 <span style="background-color:#ed6c58">UAW 2478 stuff, mention protecting international workers and Kill the Cuts</span>
 -->
-
-\
-Check out my [CV](/cv/) for a full list of my teaching, mentoring, and outreach activities. 
