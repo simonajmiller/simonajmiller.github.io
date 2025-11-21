@@ -43,7 +43,8 @@ I want to answer questions like:
 \
 And more! Under each heading below, I describe some of my specific research projects in more detail.
 
-#### Measuring the Spins of Heavy Binary Black Holes
+<details>
+    <summary> Spinning Heavy Binary Black Holes </summary>
 
 To make robust measurements of the properties of BBHs observed via GWs, I posit that is essential to **connect measured parameters**, i.e, masses and spins, **with waveform phenomenology**, or how these parameters imprint onto observable GW signals.
 This connection is especially crucial for BBHs ~ 100 solar masses: because they merge at lower frequencies, these systems fall near the lower edge of LIGO's sensivity band and thus only generate a few dectable GW cycles, as seen in Figure 2. 
@@ -84,16 +85,25 @@ I apply time-domain on the massive and highly-precessing event [GW190521](https:
 My co-authors and I also apply this technique to another event, [GW191109](https://arxiv.org/abs/2409.03912)---whose anti-aligned spin measurement is concurrent with a glitch in the inspiral data---and a suite of [simulated high-mass signals](https://arxiv.org/abs/2505.14573).
 Our work highlights that extreme caution must be taken when inferring subtle effects in GW data: interesting spin configurations do not always stem from analogous waveform morphology, and can be easily [biased](https://arxiv.org/abs/2510.05029) by non-astrophysical effects.
 
+</details>
 
-<!-- #### Probing Fundamental Physics
+
+<details>
+    <summary> Probing Fundamental Physics </summary>
 
 Time-domain inference can used not just to generate trustworthy spin measurements, but also to test fundamental physics. 
 
+</details>
 
-#### Population Analyses
 
-<span style="background-color:#ed6c58">FILL IN HERE. Short author work and LVK paper.</span> -->
+<!-- <details>
+    <summary> Population Analyses </summary>
 
+boop
+
+</details>
+
+-->
 
   <p> <br> </p>
-<span style="color:#8c8f8f">*This page was last updated October 25, 2025.*</span>
+<span style="color:#8c8f8f">*This page was last updated November 21, 2025.*</span>
